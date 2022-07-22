@@ -1,0 +1,4 @@
+name: MapVideo
+version: '${project.version}'
+main: me.tud.mapvideo.MapVideo
+api-version: 1.18
